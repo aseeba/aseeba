@@ -1,10 +1,10 @@
 # Hi, there 👋🏼
 
-I'm Anja, 40 years old, currently living in Bremervörde (between Hamburg and Bremerhaven) and just finished the Web Development Bootcamp at neue fische - school and pool for digital talents.
+I'm Anja, 40 years old, currently living between Hamburg and Bremerhaven and just finished the Web Development Bootcamp at neue fische - school and pool for digital talents.
 
 In 12 very intense weeks we learned an incredible amount, e.g. JavaScript, React, HTML5, CSS3, Node.js, Github Workflow, Storybook, Styled Components, Test Driven Development and basics of UX/UI design and agile project management.
 
-Now I am looking forward to deepening all this new knowledge.
+Now I am looking forward to deepening all this new, exciting knowledge.
 
 
 ## My Github activity
