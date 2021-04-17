@@ -27,7 +27,7 @@ The Internet fascinated me already in the days of the 28K modem. So, armed with 
 
 Later, in my further professional career, my fascination for structure and aesthetics was joined by my enthusiasm for haptic, analog media (print production). Here, too, I was driven by the motivation to want to know exactly how the technology behind it worked (from the use of graphics programs to the printing processes and quality assurance). And so, for several years, I organized print products ranging from small special prints to large POS and OOH campaigns.
 
-To my delight, the paths of analog and digital media crossed more and more in recent years. Since then, it is always a great pleasure for me when I get the chance to coordinate cross-media or digital projects as well. Furthermore, you can clearly feel that the print market is shifting significantly in its relevance and that this area is also becoming increasingly digitally driven.
+To my delight, the paths of analog and digital media crossed more and more in recent years. Since then, it is always a great pleasure for me when I get the chance to coordinate cross-media or digital projects as well. Furthermore, you can clearly feel that the print market is shifting significantly in its relevance and that this area is also becoming more and more digitally driven.
 In view of this development and the opportunities that digitalization offers in many areas, I now wanted to dive back into the digital world and learn a professionell skill (web development) in order to be able to optimally meet future requirements.
 
 
