@@ -18,7 +18,8 @@ And now, of course, I am full of anticipation to prove and develop my new skills
 &nbsp;
 <a href="https://www.xing.com/profile/Anja_Seeba/cv">
   <img align="center" width="50px" height="50px" src="./assets/xing-logo.svg" /> <a/>
-
+  
+***
 
 ## My Github activity
 
@@ -34,6 +35,8 @@ And now, of course, I am full of anticipation to prove and develop my new skills
 </a>
 </p>
 
+***
+
 ## What I did before the Bootcamp at neue fische
 
 The Internet fascinated me already in the days of the 28K modem. So, armed with a simple text editor and selfHTML, I built my first small personal website. I placed special emphasis on implementing my very clear idea of how my site should be structured, and on a consistent and aesthetic appearance. During my apprenticeship in a small advertising agency I built my first websites for state and federal parliament members with the help of Joomla and a good friend (as backup 😉). 
@@ -42,9 +45,6 @@ Later, in my further professional career, my fascination for structure and aesth
 
 To my delight, the paths of analog and digital media crossed more and more in recent years. Since then, it is always a great pleasure for me when I get the chance to coordinate cross-media or digital projects as well. Furthermore, you can clearly feel that the print market is shifting significantly in its relevance and that this area is also becoming more and more digitally driven.
 In view of this development and the opportunities that digitalization offers in many areas, I now wanted to dive back into the digital world and learn a professionell skill (web development) in order to be able to optimally meet future requirements.
-
-
-
 
 ***
 
