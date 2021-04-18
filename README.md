@@ -9,7 +9,7 @@ It was a great pleasure to be able to learn together with so many very talented 
 
 And now, of course, I am full of anticipation to prove and develop my new skills. 
 
-___
+***
 
 **Please contact me if you are curious about me** </br> You can find me here:
 
