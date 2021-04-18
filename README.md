@@ -5,15 +5,19 @@ I'm Anja, 40 years old, currently living between Hamburg and Bremerhaven and jus
 In 12 very intense weeks we learned an incredible amount about: e.g. JavaScript, React, HTML5, CSS3, Node.js, Github Workflow, Storybook, Styled Components, Test Driven Development and basics of UX/UI design and agile project management.
 
 In my professional career, it has always been a good decision for me to constantly expand my knowledge and live out my passion for change. I have always been very lucky to be able to learn what fascinates me. This was also the case recently at the bootcamp of neue fische - school and pool for digital talents. 
-It was a great pleasure to be able to learn together with so many very talented and highly motivated people under such excellent conditions and with inspiring coaches. And now, of course, I am full of anticipation to prove and develop my new skills. 
+It was a great pleasure to be able to learn together with so many very talented and highly motivated people under such excellent conditions (yes, remote works great) and with inspiring coaches. 
 
-**Please contact me if you are curious about my profile**
+And now, of course, I am full of anticipation to prove and develop my new skills. 
+
+___
+
+**Please contact me if you are curious about me** </br> You can find me here:
 
 <a href="https://www.linkedin.com/in/anja-seeba-9298a393/">
-  <img align="center src:"" /> </>
-
-<a href="https://www.linkedin.com/in/anja-seeba-9298a393/">
-  <img align="center src:"" /> </>
+  <img align="center" width="50px" height="50px" src="./assets/linkedin-logo.svg" /> <a/>
+&nbsp;
+<a href="https://www.xing.com/profile/Anja_Seeba/cv">
+  <img align="center" width="50px" height="50px" src="./assets/xing-logo.svg" /> <a/>
 
 
 ## My Github activity
@@ -32,7 +36,7 @@ It was a great pleasure to be able to learn together with so many very talented 
 
 ## What I did before the Bootcamp at neue fische
 
-The Internet fascinated me already in the days of the 28K modem. So, armed with a simple text editor and selfHTML, I built my first small personal website. I placed special emphasis on implementing my very clear idea of how my site should be structured, and on a consistent and aesthetic appearance. During my apprenticeship in a small advertising agency I built my first websites for state and federal parliament members with the help of Joomla and a good friend (as backup). 
+The Internet fascinated me already in the days of the 28K modem. So, armed with a simple text editor and selfHTML, I built my first small personal website. I placed special emphasis on implementing my very clear idea of how my site should be structured, and on a consistent and aesthetic appearance. During my apprenticeship in a small advertising agency I built my first websites for state and federal parliament members with the help of Joomla and a good friend (as backup 😉). 
 
 Later, in my further professional career, my fascination for structure and aesthetics was joined by my enthusiasm for haptic, analog media (print production). Here, too, I was driven by the motivation to want to know exactly how the technology behind it worked (from the use of graphics programs to the printing processes and quality assurance). And so, for several years, I organized print products ranging from small special prints to large POS and OOH campaigns.
 
