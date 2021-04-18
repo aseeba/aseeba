@@ -5,7 +5,7 @@ I'm Anja, 40 years old, currently living between Hamburg and Bremerhaven and jus
 In 12 very intense weeks we learned an incredible amount about: e.g. JavaScript, React, HTML5, CSS3, Node.js, Github Workflow, Storybook, Styled Components, Test Driven Development and basics of UX/UI design and agile project management.
 
 In my professional career, it has always been a good decision for me to constantly expand my knowledge and live out my passion for change. I have always been very lucky to be able to learn what fascinates me. This was also the case recently at the bootcamp of neue fische - school and pool for digital talents. 
-It was a great pleasure to be able to learn together with so many very talented and highly motivated people under such excellent conditions (yes, remote works great) and with inspiring coaches. 
+It was a great pleasure to be able to learn together with so many very talented and highly motivated people, with inspiring coaches and under such excellent conditions (yes, remote works!).
 
 And now, of course, I am full of anticipation to prove and develop my new skills. 
 
