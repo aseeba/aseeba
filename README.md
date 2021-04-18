@@ -7,7 +7,7 @@ In 12 very intense weeks we learned an incredible amount about: e.g. JavaScript,
 In my professional career, it has always been a good decision for me to constantly expand my knowledge and live out my passion for change. I have always been very lucky to be able to learn what fascinates me. This was also the case recently at the bootcamp of neue fische - school and pool for digital talents. 
 It was a great pleasure to be able to learn together with so many very talented and highly motivated people, with inspiring coaches and under such excellent conditions (yes, remote works!).
 
-And now, of course, I am full of anticipation to prove and develop my new skills. 
+And now, of course, I am full of joyful anticipation to prove and develop my new skills. 
 
 ***
 
